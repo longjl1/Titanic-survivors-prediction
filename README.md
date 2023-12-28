@@ -19,12 +19,4 @@ Accuracy: .81
 
 ## Citation 
 
-@misc{titanic,
-    author = {Will Cukierski},
-    title = {Titanic - Machine Learning from Disaster},
-    publisher = {Kaggle},
-    year = {2012},
-    url = {https://kaggle.com/competitions/titanic}
-}
-
-
+Will Cukierski. (2012). Titanic - Machine Learning from Disaster. Kaggle. https://kaggle.com/competitions/titanic
